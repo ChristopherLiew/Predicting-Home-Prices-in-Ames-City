@@ -6,4 +6,5 @@ Data science project on Housing Price predictions in Ames City using regression 
 - Further Model Development, Eval & Selection:
   1) Elastic Net
   2) XGBoost
-  3) Tree Based Regressors
+  3) Tree Based Regressors (Bagging)
+  4) Stacking
